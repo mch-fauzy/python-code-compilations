@@ -8,12 +8,12 @@ Presented in the form of iPython Notebooks.
 
 	- [ATM Control Flow](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/ATM.ipynb): A program to replicate the Automatic Teller Machine (ATM) control flow.
 	 
-	    _[Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/ATM)_
+	    _ATM Control Flow [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/ATM)_
 
 	- [Order a Meal](https://github.com/mch-fauzy/Python/blob/main/Challenges/Order_a_Meal/Order_a_Meal.ipynb): A program to order a meal
 	
 	
-	    _Order a Meal Directory:_ [.py files](https://github.com/mch-fauzy/Python/tree/main/Challenges/Order_a_Meal)
+	    _Order a Meal [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/Order_a_Meal)_
 
 
 	
