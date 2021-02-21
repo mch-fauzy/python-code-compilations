@@ -1,6 +1,6 @@
 # Python Portfolio
 Collection of Python challenges, courses and projects. 
-Presented in the form of iPython Notebooks and .py files.
+Presented in the form of iPython Notebooks.
 
 ## Table of Contents
 
@@ -8,10 +8,7 @@ Presented in the form of iPython Notebooks and .py files.
 
 	- [ATM Control Flow](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/ATM.ipynb): A program to replicate the Automatic Teller Machine (ATM) control flow.
 	 
-	    _Files Used (.py):_ 
-       1. [atm_card.py](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/atm_card.py)
-       2. [customer.py](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/customer.py)
-       3. [atm_program.py](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/atm_program.py)
+	    _File Directory (.py):_ [Click Here](https://github.com/mch-fauzy/Python/tree/main/Challenges/ATM)
 
 	- [Order a Meal](https://github.com/mch-fauzy/Python/blob/main/Challenges/ATM/ATM.ipynb)
 
