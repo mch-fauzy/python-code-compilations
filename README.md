@@ -1,5 +1,5 @@
 # Python Portfolio
-Collection of Python challenges.
+Collection of Python challenges and courses.
 Presented in the form of iPython Notebooks.
 
 ## Table of Contents
@@ -19,6 +19,8 @@ Presented in the form of iPython Notebooks.
 	
 	    _Order a Meal [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/Order_a_Meal)_
 	    
+	    
+- ### Python Courses (In Progress)
 	    
 
 
