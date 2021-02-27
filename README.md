@@ -18,6 +18,11 @@ Presented in the form of iPython Notebooks.
 	
 	
 	    _Order a Meal [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/Order_a_Meal)_
+	
+	- [Tic Tac Toe](https://github.com/mch-fauzy/Python/blob/main/Challenges/Tic_Tac_Toe/Tic_Tac_Toe.ipynb): A tic tac toe games
+	
+	
+	    _Tic Tac Toe [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/Tic_Tac_Toe)_
 	    
 	    
 - ### Python Courses (In Progress)
