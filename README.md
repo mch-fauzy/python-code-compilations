@@ -25,7 +25,7 @@ Presented in the form of iPython Notebooks.
 	    _Tic Tac Toe [Directory](https://github.com/mch-fauzy/Python/tree/main/Challenges/Tic_Tac_Toe)_
 	    
 	    
-- ### Python Courses (In Progress)
+- ### Python Notes (In Progress)
 	    
 
 
