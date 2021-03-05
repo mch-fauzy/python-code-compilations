@@ -1,6 +1,5 @@
 # Python Portfolio
-Collection of Python challenges and courses.
-Presented in the form of iPython Notebooks.
+Repository containing portfolio of python challenges and notes completed by me.
 
 ## Table of Contents
 
