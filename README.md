@@ -21,7 +21,7 @@ Repository containing portfolio of python challenges and notes completed by me.
 	
 	- [Palindromes Permutation](https://github.com/mch-fauzy/Python/blob/main/Challenges/Palindromes_Permutation/Palindromes_Permutation.ipynb): A function to check if it is a permutation of a palindrome (has no more than 1 odd letter) or not.
 	    
-	- [Reconstruct a 2-Row Binary Matrix](https://github.com/mch-fauzy/Python/blob/main/Challenges/Reconstruct_a_2_Row_Binary_Matrix/Reconstruct_a_2_Row_Binary_Matrix.ipynb): A function to reconstruct the matrix and returns it as a 2-D integer array.
+	- [Reconstruct a 2-Row Binary Matrix](https://github.com/mch-fauzy/Python/blob/main/Challenges/Reconstruct_a_2_Row_Binary_Matrix/Reconstruct_a_2_Row_Binary_Matrix.ipynb): A function to reconstruct the binary matrix and returns it as a 2-D integer array.
 	
 	- [Tic Tac Toe](https://github.com/mch-fauzy/Python/blob/main/Challenges/Tic_Tac_Toe/Tic_Tac_Toe.ipynb): A tic tac toe games
 	    
